@@ -10,7 +10,7 @@ The primary goal of the sales prediction using python project is to accurately f
 
 //Development of the Sales Prediction Project:
 
-1.Data collection 2.Data preprocessing 3.Feature Engineering 4.Visulization 4.Model Deployement
+1.Data collection 2.Data preprocessing 3.Feature Engineering 4.Visulization 5.Model Deployement
 
 //TOOLS AND SOFTWARE USED FOR THE PROJECT:
 
